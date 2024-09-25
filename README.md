@@ -1,2 +1,5 @@
 # TrafficSimulator
-There are three teams: Traffic rules, Roads and Vehicles.
+There are three teams: 
+  Traffic rules
+  Roads
+  Vehicles.
