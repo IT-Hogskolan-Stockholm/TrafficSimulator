@@ -1,3 +1,5 @@
 # TrafficSimulator
-- Khatchik = Scrum_Master ;
-- Diana = logic develpments ;
+There are three teams: 
+  Traffic rules
+  Roads
+  Vehicles.
