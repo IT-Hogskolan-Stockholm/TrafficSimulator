@@ -1,0 +1,16 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># TrafficSimulator\n# test dunvret
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 3354ecedff47e2f8ed91d153a6699cd66fdc651d)
++++ b/README.md	(date 1727436539272)
+@@ -1,2 +1,1 @@
+-# TrafficSimulator
+-# test dunvret
+\ No newline at end of file
++# TrafficSimulator
+\ No newline at end of file
