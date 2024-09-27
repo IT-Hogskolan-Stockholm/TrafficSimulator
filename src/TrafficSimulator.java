@@ -40,7 +40,7 @@ public class TrafficSimulator {
     }
 
     private Vehicle generateRandomVehicle() {
-        Vehicle[] vehicles = {new Car(), new Bus()};
+        Vehicle[] vehicles = {new Car(""), new Bus()};
         return vehicles[new Random().nextInt(vehicles.length)];
     }
 

@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class TestMain {
     @Test
     void lookMain() {
-        assertEquals(5, 3+2);
+        Car myCar = new Car("NAs1234");
+        assertEquals("NAS1234", myCar.getType());
     }
 }
