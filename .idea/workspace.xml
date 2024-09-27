@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cadcc00-0146-407b-91b5-cb2b8b49637d" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2cadcc00-0146-407b-91b5-cb2b8b49637d" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,6 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2meSY3ZSudNs4nEAv9bcs55I6LA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "#1 on feature/road-types",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/carolinebennarp/Library/Mobile Documents/com~apple~CloudDocs/Javautveckling/IT högskolan/Gruppuppgift/TrafficSimulator",
@@ -56,6 +54,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TrafficSimulator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TrafficSimulator" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727435592610</updated>
       <workItem from="1727435593838" duration="1574000" />
+      <workItem from="1727437211239" duration="464000" />
     </task>
     <task id="LOCAL−00001" summary="test">
       <option name="closed" value="true" />
@@ -88,7 +102,35 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1727435934628</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1727437277140</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1727437277140</updated>
+    </task>
+    <task id="LOCAL−00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1727437293071</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1727437293071</updated>
+    </task>
+    <task id="LOCAL−00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1727437385673</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1727437385673</updated>
+    </task>
+    <task id="LOCAL−00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1727437449642</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1727437449642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
