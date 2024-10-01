@@ -1,4 +1,6 @@
 public class Bus implements Vehicle {
+    final private String type = "Bus";
+
     @Override
     public void move(Road road, TrafficRule rule) {
 
@@ -6,6 +8,6 @@ public class Bus implements Vehicle {
 
     @Override
     public String getType() {
-        return "";
+        return type;
     }
 }
