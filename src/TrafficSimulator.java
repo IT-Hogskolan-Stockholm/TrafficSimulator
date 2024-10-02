@@ -1,3 +1,7 @@
+/**
+ * The TrafficSimulator class simulates traffic on various roads with different vehicles and traffic rules.
+ * It generates a random setup of roads, vehicles, and traffic rules, and then simulates the traffic.
+ */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -36,7 +40,7 @@ public class TrafficSimulator {
     }
 
     private Vehicle generateRandomVehicle() {
-        Vehicle[] vehicles = {new Car(), new Bus()};
+        Vehicle[] vehicles = {new Car(""), new Bus()};
         return vehicles[new Random().nextInt(vehicles.length)];
     }
 
